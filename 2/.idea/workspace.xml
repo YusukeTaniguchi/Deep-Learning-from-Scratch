@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51953c5d-e391-4d41-98e2-ff095ed8b6e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AND_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdaGrad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddLayer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Affine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Convolution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dropout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Momentum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MulLayer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NAND_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OR_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pooling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReLU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SGD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SigmoidLayer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftmaxWithLoss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoLayerNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XOR_gate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cross_entropy_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forward_network.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradient_descent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/im2col.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mean_squared_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mnist_show.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neuralnet_mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numerical_gradient.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sigmoid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/softmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/step_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_neuralnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_layer_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +24,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Convolution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="300">
               <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
@@ -164,6 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -314,7 +285,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24171951" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -595,13 +565,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im2cok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/im2cok.py" />
     <entry file="file://$PROJECT_DIR$/Dropout.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -618,7 +582,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Convolution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="300">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
